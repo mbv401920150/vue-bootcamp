@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply m-6
+}
+
+button {
+  @apply border-gray-700 hover:border-gray-900 border-2 bg-blue-400 rounded hover:bg-blue-500 my-1 mr-2 px-5 py-1
+}
